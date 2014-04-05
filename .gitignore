@@ -1,0 +1,4 @@
+bin/
+Makefile*
+*.pro.user
+object_script.client_irc*

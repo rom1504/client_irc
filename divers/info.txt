@@ -1,0 +1,9 @@
+-Instruction pour compiler ce programme sous linux : 
+	-installer Qt 4.5.2
+	-se placer dans le dossier pro
+	-faire qmake
+	-puis make
+	-puis se placer dans le dossier plugin
+	-faire qmake
+	-puis make
+	-enfin vous pouvez lancer l'executable de client_irc qui se trouve dans le dossier bin

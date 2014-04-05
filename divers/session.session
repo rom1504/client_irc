@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="7">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="0" endPos="0" selMode="0" lang="Normal Text" filename="D:\Documents\programmation\c++\Qt\client_irc\texte\todo_list\encours.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="0" endPos="0" selMode="0" lang="Normal Text" filename="D:\Documents\programmation\c++\Qt\client_irc\texte\done_list\done_list.txt" />
+            <File firstVisibleLine="555" xOffset="0" scrollWidth="3608" startPos="24085" endPos="24090" selMode="0" lang="C++" filename="D:\Documents\programmation\c++\Qt\client_irc\developpement\source\Fenetre\FenPrincipale.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="15851" endPos="15851" selMode="0" lang="C++" filename="D:\Documents\programmation\c++\Qt\client_irc\developpement\source\Fenetre\FenPrincipaleRecevoir.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="0" endPos="0" selMode="0" lang="C++" filename="D:\Documents\programmation\c++\Qt\client_irc\developpement\source\Rang.cpp" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="0" endPos="0" selMode="0" lang="C++" filename="D:\Documents\programmation\c++\Qt\client_irc\developpement\source\Rang.h" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="91" endPos="91" selMode="0" lang="Normal Text" filename="D:\Documents\programmation\c++\Qt\client_irc\texte\todo_list\nouvelle_fonctionnalite.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3608" startPos="447" endPos="447" selMode="0" lang="Normal Text" filename="D:\Documents\programmation\c++\Qt\client_irc\texte\todo_list\bugListeConnecteGrise.txt" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

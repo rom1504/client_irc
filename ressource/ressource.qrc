@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../images/halfop.png</file>
+    <file>../images/op.png</file>
+    <file>../images/owner.png</file>
+    <file>../images/voice.png</file>
+    <file>../images/icone.png</file>
+    <file>../images/grande_icone.png</file>
+    <file>../images/bot.png</file>
+    <file>../images/icone_nouveau_message.png</file>
+</qresource>
+</RCC>
